@@ -3,5 +3,14 @@
 
 body {
     font-family: "Poppins", sans-serif;
-    background-color: whitesmoke;
+    font-size: 0.875rem;
+    opacity: 1;
+    overflow-y: scroll;
+    margin: 0;
+}
+
+.wrapper {
+    align-items: stretch;
+    display: flex;
+    width: 100%;
 }
